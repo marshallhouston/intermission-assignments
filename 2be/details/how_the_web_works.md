@@ -33,7 +33,7 @@ DNS matches domain names to the respective numeric IP address.
 Each IP address has an alias in words called a domain name; if you type in the domain name in the browser navigator bar, it will go to the associated numeric IP address.
 
 1. 	What is the client?
-  * C. The software which requests information from a server (browser)
+  * E. The computer which the IP address belongs to
 
 1. 	What does URL stand for?
 Universal Resource Locator
